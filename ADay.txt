@@ -1,0 +1,54 @@
+What is Cloud Computing?
+Cloud computing is the delivery of computing services over the internet 
+("the Cloud"), which allows users to access resources like servers, 
+storage, databases, networking, software, and analytics without having to
+own or manage physical infrastructure.
+
+1. Iaas - Infrastucture as a service.
+   You manage most of it (like VMs, OS, apps). 
+   Cloud Providers manages the underlying hardware.
+   Examples: Azure VMs, Azure Storage, Azure virtual network.
+   
+   use when: you need full control over your environment and want to migrate
+             traditional apps to the cloud.
+
+2. Paas - Platform as a service.
+   You manage only apps and data.
+   The cloud provider handles the rest, including OS and runtime.
+   Example: Azure APP Service, Azure SQL Database, Azure Functions.
+   
+   use when: you want to develop applications quickly without managing the
+             infrastructure.
+   
+3. Saas - Software as a service.
+   Fully managed applications delivered over the internet. you just use
+   the applications.
+   Example: Microsoft 365 apps, GitHub, Salesforce.
+
+   use when: you need ready-to-use software without worrying about how
+             it works behind the scenes.
+
+What Role does Azure play in cloud computing?
+Microsoft Azure is a cloud computing platform and service provider that
+delivers - Iaas, Paas, Saas.
+
+  Cloud - Shared Responsibilty Model
+  On Premises - ALL YOUR RESPONSIBILTY MODEL
+
+1. Public Cloud
+    The public cloud is defined as computing services offered by third
+    party providers over the public internet, make them avaiable to anyone
+    who wants to use or purchase them.
+    In the public cloud model, the cloud provider (e.g., Microsoft Azure) owns and
+    manages the underlying infrastructure, including hardware, networking, 
+    and data centers, which are shared among multiple tenants.
+2. Private Cloud
+   The private cloud is defined as computing services offered either over
+   the internet or a private internal network and only to select users 
+   instead of the general public.
+   Looks and acts like a cloud, except customer owns or leases or has 
+   exclusive access to the hardware.
+   Microsoft Azure provide a private cloud called stack HCI that can rent
+   and buy from them to use on your own hardware.
+3. Hybrid Cloud
+   computing environment with combine of both private and public cloud.
