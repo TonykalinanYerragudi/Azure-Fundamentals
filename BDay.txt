@@ -1,0 +1,29 @@
+Cloud Pricing:
+Cloud pricing can be complicated
+
+Can be consider a downside to cloud computing:
+  - difficult to predict your monthly bill
+  - difficult to understand in advance what a service will really
+    cost
+  - possibility for big savings but you lose predictabilty
+
+Example:
+Factors affecting VM Pricing:
+
+Geographical Region,
+OS SKU/ License, Instance Size, Disk Type/ Size,
+Bandwidth, Backup Storage, Reservation/ Savings Plan,
+Support Agreement. 
+
+Pay for time and Pay for GB
+Pay for Operations: Read, write, list, delete
+Pay per message, Pay per query to a database, etc.
+Usually very cheap per operation.
+
+Free Services:
+
+55+ Free Services that can be used as part of your solution.
+Some paid services have free tiers. Some have limit.
+
+Pricing calculator
+https://azure.microsoft.com/en-us/pricing/details/virtual-machines/windows/
