@@ -1,0 +1,13 @@
+Describe
+  High availability and scalability
+  reliabilty and predictability
+  security and governance
+  manageability
+
+
+High Availability:
+
+  (HA) Ability of a system to remian operational to users during
+  planned or unplanned outages.
+
+  A Conscious effort to avoid the obvious sources of downtime.
