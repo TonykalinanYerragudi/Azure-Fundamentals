@@ -1,0 +1,41 @@
+Scalability benefit of cloud computing
+
+The ability of a system to accommodate increasing demands by adding or 
+removing resources as needed.
+
+why is it needed?
+It allows a system to adapt to changing usage patterns and handle
+increased traffic without requiring changes to the application
+code or system design.
+
+Does traffic fluctuate?
+- Some businesses have traffic that fluctuates based on time
+of day or day of the year.
+- E-commerce websites have black friday.
+- school registrations are busy in september.
+- Tax systems are busy in April.
+
+The $1M Question...
+- Can you expand the capacity of a system very easily, by
+  adding more servers?
+- Or will it be a massive undertaking to do that?
+
+Vertical Scaling
+  Also Called "Scaling up" or "Scaling down".
+  Adding more resources to a single serve.
+  Increase the amount of memory, the number of CPUs.
+  There is an upper limit to this
+  Azure - 96 vCPUs, 384 GB memory
+  Does not improve availabilty
+
+Horizontal Scaling
+  Also called "scaling out" or "scaling in".
+  Adding more servers to a system.
+  No limit to scaling.
+  Additional complexities for load balancing.
+
+Impact on system cost
+  Adding more resources to a system adds to cost.
+  Reducing resources can reduce cost.
+  Having scalable system allows for a system to be perfectly sized.
+  This Optimizes the cost by reducing wasted computing resources.
