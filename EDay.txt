@@ -1,0 +1,26 @@
+Elasticity Benefit of cloud computing
+The ability of a system to quickly and easily scale up or down
+the amount of resources that a system uses in response to changing
+demand.
+
+- Has to involve some sort of automation.
+- Often called "autoscaling" in cloud computing.
+- The System monitors some metric (such as CPU utilization)
+  to determine how busy a system is
+- Adds resources when it exceeds a limit for being busy.
+- Remove resources when it falls below a limit for being not
+  busy.
+
+Why Is It Needed?
+  - More efficient and cost-effective use of resources.
+  - Minimizes computing "waste" - resources paid for and not 
+  - Self-hosted systems tend to have a large percentage of 
+    "over-provisioned" resources for anticipated future growth.
+
+                 capacity
+                  ------
+    / \         | / U  \ |
+    /       ---- /  S   \ ----
+   /      |     /   E    \    |
+      ----     /    R     \    ----
+    |         /   Demand   \       |
