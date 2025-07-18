@@ -1,0 +1,34 @@
+Reliabilty Benefit of cloud computing
+
+All three relating to high quality service
+  - Availability
+  - Reliability
+  - Predictability
+
+Availabilty
+  The ability of a system to be accessible and usable by users
+  when they need it.
+
+Reliability
+  The ability of a system to recover from failures.
+  Azure has several built-in services that you can use to 
+  keep an application running after a failure has occurred.
+
+There are many different failures that can occur even in
+a well-designed system.
+  - Hardware failure 
+  - Network interruptions
+  - Power failures
+  - Large-scale regional outage
+
+Why Is It Needed?
+ - You have to trust that your cloud provider is doing
+   everything it can to make its platform reliable.
+ - This includes transparency during service issues.
+
+How Is It Achieved?
+  - Auto-scaling.
+  - Avoid single points of failure.
+  - Multi-region deployments.
+  - Data backup and replication.
+  - Health probes and self-healing
