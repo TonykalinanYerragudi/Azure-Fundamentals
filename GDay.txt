@@ -1,0 +1,20 @@
+Predictability benefit od cloud computing
+
+- The ablity to forecast and control the performance and behavior
+  of a system.
+- Includes the ability to predict future costs.
+
+why is it needed?
+
+- Predictability gives you the confidence that the system will
+  continue to perform at the expected level in the future.
+- And of course that you won't get a crazy bill unexpectedly.
+
+How is it Achieved?
+
+- Autoscaling
+- Load balancing
+- Different instance types, sizes, pricing tiers.
+- cost management tools.
+- API
+- Pricing calculators
