@@ -1,0 +1,27 @@
+security Benefit of cloud computing 
+
+Security 
+- cloud provides are obviously massive targets for hackers for 
+ hackers, and so they rightly spend a lot of time, money 
+ and effort on platform security
+- cloud providers go through security audits and compliance
+  certifications
+- and provides customers the tools they needs to enable and
+  monitor security with their own applications/data.
+
+why it is needed 
+security is a fundamental challenge in it
+you want confidence that your cloud providers cannot easily
+be defeated by hackers and those with malicious intent
+
+how it can achieved
+
+industry standard compliance certifications
+microsoft security responses centre 
+always on ddos
+azure active directory
+role based access control 
+azure policy and buleprint
+always up todate platform services 
+update management
+encryption by default
