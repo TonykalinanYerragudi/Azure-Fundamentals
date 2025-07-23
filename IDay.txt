@@ -1,0 +1,18 @@
+Governance benefit of cloud computing
+
+- How your organization does business
+- The process of defining, implementing, and monitoring a framework
+  of policies that guides an organization's cloud operations.
+
+why it is needed?
+- your company wants to ensure it's policies are followed by in the cloud.
+- Includes basic auditing and reporting, as well as enforcement.
+- you want to be compliant with industry standards such as HIPAA or PCC or
+  GDPR
+
+How is it achieved?
+Azure policy and buleprint
+management groups
+custom roles
+soft delete
+guides and best practices such as cloud adoption framework
