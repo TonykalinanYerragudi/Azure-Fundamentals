@@ -1,0 +1,34 @@
+Manageability
+
+1. Management of the cloud
+2. Management in the cloud
+
+Management of the cloud
+  - Templates
+  - Automation
+  - scaling
+  - monitoring and alerts
+  - self-healing
+
+Management in the cloud
+  - web portal
+  - command line interface and scripts
+  - APIs
+  - PowerShell
+
+Why it is needed?
+  How easy it is to work with your applications in the cloud impacts
+  cost, performance, security, and other priorites.
+
+  Different cloud vendors are going to be easier or harder to work with.
+
+How is it achieved?
+
+  Azure portal, CLI, powershell, cloud shell, REST APIs, and other
+  programmatic methods.
+
+  Consolidated monitoring and alerting system.
+
+  Ability to use ARM templates, Bicep, Terraform, etc.
+
+  Autoscaling of most types of compute resources.
