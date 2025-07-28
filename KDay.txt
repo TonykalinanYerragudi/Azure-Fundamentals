@@ -1,0 +1,34 @@
+Cloud service types
+
+- Infrastructure as a service (Iaas)
+- Platform as a service (Paas)
+- Software as a service (Saas)
+
+as a service 
+  - you can rent it for a short time, if you 
+  - no commitment, if you wish
+  - pay for what you use (time, gb, or other)
+  - cloud provider takes care of buying, developing,
+    and maintaining it.
+
+IAAS Computing
+  - these are the essential service of technology
+    - computing
+    - storage
+    - networing
+  - generally have "real world" equivalents in your own
+    data center
+  - cloud replacements of real world things
+
+  eg: one example is azure virtual machines
+      pay by second
+      many choices in cpu speeds, ram, optimizations
+Iaas storage
+      Azure storage is one example of this
+      5PB of storage capacity
+      can handle blobs, files, queues, and tables.
+      can configure as a data lake
+Iaas networking
+  virtual networking is an example of this 
+  virtual networks dont cost anything
+  there are ingress and egress bandwidth costs
