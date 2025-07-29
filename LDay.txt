@@ -1,0 +1,47 @@
+Platform as a service
+  - Cloud service providers have an opportunity to provide more than just the "basic"
+    infrastructure.
+  - PaaS includes a service layer on top of IaaS - computing, storage and networking.
+  - middleware, development tools, database server, and more.
+
+PaaS Computing
+  - one example is Azure App Services
+  - simply upload your code and configuration to azure, and it runs your code without needing
+    to worry about the VM underneth.
+  - Incudes scaling features, CI/CD, containers, staging and development environments, etc
+
+PaaS storage
+  - managed storage is an example of this
+  - azure sql database is another example
+  - freed from worring about the server vm itself or the hard disk itself
+
+PaaS Networking
+  - Azure front door is an example of this
+  - Or Load Balancer
+  - Or Firewall
+  - These are software applications that perform networking tasks.
+a
+
+Software as a Service (SaaS)
+  - Cloud apps
+  - Tools such as office 365, Onedrive, Skype
+  - The app is ready to be used and simply need to set it up and use it
+
+
+Serverless
+
+What does 'Serverless' mean?
+  - First, you don't manage the servers.
+  - you only handle writing and running the code.
+
+Serverless = Consumption-Based Pricing
+  - you only pay for what you use.
+  - No charges when your apps or database is idle.
+  - No need to pre-purchase or reserve resources.
+
+Serverless services:
+  - Functions
+  - Container Apps
+  - Kubernetes
+  - SQL Database
+  - Cosmos DB
