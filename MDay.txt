@@ -1,0 +1,13 @@
+Core Azure Architecture
+
+Regions, Region Pairs, Sovereign Regions
+
+Regions
+
+- Areas of the world where azure has a set of datacenters (minimum 3 in
+a set)
+- Not necessarily "countries" but can be
+- Usually each region is connected to another region to make a "region
+  pair"
+- Region pairs have highest speed connections and special treatment
+  during Azure updates.
