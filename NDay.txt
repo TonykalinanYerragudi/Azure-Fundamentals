@@ -1,0 +1,57 @@
+Sovereign Azure
+
+- These are not connected to the Azure Public Cloud.
+- Require approval to join / create a subscription.
+- Adhere to different compliance standards.
+
+Availability Zones
+
+- not every region has availability zones.
+- not every service supports availabilty zones.
+
+  Three types of az service supports availability zones
+  - zonal services
+  - zone-redundant services
+  - always available services
+
+          Management groups
+                |
+            Subscriptions
+                |
+            Resource Groups
+                |
+              Resources
+
+Resources
+  - A generic word to represent an azure service that you have access to, 
+    such as a specific virtual machine, storage accounts, or database
+  - you can create a resource in many different ways - Azure Portal,
+    CLI, Powershell, ARM, Templeate, etc.
+  - Each resource has a name created by you.
+  - Sometimes it has to be unique, sometimes not.
+  - Generally, you indicate the region where they are to be created.
+
+Resource Group
+  - A logical grouping of resources
+  - Resource Group associated with a region, which can be different than 
+    the resource it contains.
+  - All services in a resource group should have a similar lifecycle
+    - deploy together, delete together.
+
+Resource & Group
+  - All resources must belong to one and only one resource group.
+  - Permissions can be assigned at the resource group level.
+  - There is no security boundary offered by a resource group 
+    for communications
+
+Subscriptions
+  - The billing unit within Azure.
+  - Always a payment method associated with a subscription.
+  - Users can have access to more than once subscription and
+    different roles.
+
+    - Free plan - $200 credits first 30days
+      - can only have one
+    - Pay as you Go - billed to credit card
+    - Enterprise Agreement - EA
+    - Free credits - MSDN, Startup plans
