@@ -1,0 +1,51 @@
+Multiple Subscriptions
+  - Some companies can choose to have multiple subscription
+  - Can be used to separate out business unit within an organization 
+    - e.g. Sales, IT, Finance.
+  - Or separate by geography - e.g. North America, Europe, Asia
+
+Management Groups
+  can contain one or more subscriptions
+
+Technical pillars of Azure
+
+- Computing services
+- networking services
+- storage services
+- Database services
+
+Some of compute types of Azure
+
+- Virtual Machines (VM)
+- VM Scale Sets (VMSS)
+- App services (Web apps)
+- Azure container Instances (ACI)
+- Azure Container Apps
+- Azure kubernetes service (AKS)
+- Azure virtual desktop
+
+Virtual Machines
+  - This is the closest analogue to a "server" in cloud computing
+  - But it's virtual
+  - That is, a single physical machine has been subdivided into slices
+    and you get to rent a single slice of it
+  - IaaS
+
+Scaling Azure VMs
+  - you can increase the size of a VM easily, turning a 4 vCPU VM into
+    an 8 vCPU VM in minutes (scale up)
+    - can go to 64 vCPUs or higher
+  - OR you can add more VMs and have them work together to handle
+    the work (scale out)
+
+Virtual Machine Scale Sets
+  - A group of virtual machines that can grow and shrink in quantity
+    based on a predefined rule.
+  - Usually based on monitoring demand
+  - Can be based on time (schedule)
+  - Can be based on many other factors
+
+Availabilty Sets
+  - you have multiple virtual machines that have an identical functions
+  - you want to signify to azure that they should be separated from each
+    other in a certain way
