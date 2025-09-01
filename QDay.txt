@@ -1,0 +1,18 @@
+Peering 
+- communication is blocked between two subnets on different networks
+- connecting two subnets together is called peering
+- This allows communication between a VM on one network and a VM on a
+  different network
+
+Azure DNS
+
+- DNS Stands for domain name system
+- You can give your IP addresses names using a DNS
+- DNS only applies internally to azure to applied networks
+
+Azure VPN Gateway
+
+- VPN is virtual private network
+- Allows communication between a workstation and a network
+  , or between two networks
+- Encrypts traffic between those two points
